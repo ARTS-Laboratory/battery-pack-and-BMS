@@ -1,0 +1,93 @@
+** Drc report for C:\Users\parke\OneDrive\Documents\GitHub\battery-pack-and-BMS\system_development\Charleston\V0.1\PCB_Design\Femaletomaleboard.kicad_pcb **
+** Created on 2024-05-24 13:31:17 **
+
+** Found 27 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(176.1000 mm, 160.7500 mm): Line on Edge.Cuts
+    @(179.5497 mm, 122.0550 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(176.1000 mm, 160.7500 mm): Line on Edge.Cuts
+    @(175.4497 mm, 82.8350 mm): Line on F.Silkscreen
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9442 mm, 88.0000 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9442 mm, 63.1080 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9442 mm, 80.8880 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9442 mm, 91.5320 mm): Footprint <no reference designator>
+[lib_footprint_mismatch]: Footprint 'Gold Finger single' does not match copy in library 'infnoise_goldfingers'.
+    Local override; Severity: warning
+    @(112.3562 mm, 39.9940 mm): Footprint SW2
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9442 mm, 70.2200 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9442 mm, 84.4440 mm): Footprint <no reference designator>
+[lib_footprint_mismatch]: Footprint 'Gold Finger single' does not match copy in library 'infnoise_goldfingers'.
+    Local override; Severity: warning
+    @(112.3950 mm, 79.1210 mm): Footprint SW2
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9442 mm, 95.1120 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9442 mm, 77.3320 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9442 mm, 66.6640 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9442 mm, 73.7760 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 125.8180 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 129.3740 mm): Footprint <no reference designator>
+[lib_footprint_mismatch]: Footprint 'Gold Finger single' does not match copy in library 'infnoise_goldfingers'.
+    Local override; Severity: warning
+    @(112.3937 mm, 124.0400 mm): Footprint SW2
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 111.5940 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 132.9300 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 115.1500 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 140.0420 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 143.5980 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 108.0380 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 118.7060 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 122.2620 mm): Footprint <no reference designator>
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(117.9817 mm, 136.4860 mm): Footprint <no reference designator>
+[lib_footprint_mismatch]: Footprint 'Gold Finger PCB bottom' does not match copy in library 'infnoise_goldfingers'.
+    Local override; Severity: warning
+    @(112.3562 mm, 77.0540 mm): Footprint SW2
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
