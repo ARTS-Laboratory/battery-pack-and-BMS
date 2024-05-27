@@ -1,0 +1,14 @@
+(footprint "Gold Finger single" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "<b>SC-70 Package</b>")
+  (attr through_hole)
+  (fp_text reference "SW" (at -0.47625 0) (layer "F.SilkS") hide
+      (effects (font (size 0.28956 0.28956) (thickness 0.024384)) (justify left))
+    (tstamp c4a18f58-4887-41dd-8300-a0d9c5c31b1d)
+  )
+  (fp_text value "MC74VHC1G66DFT1G" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp 7a3d2c7f-0a76-4149-81c5-8a4b4a8375eb)
+  )
+  (pad "1" smd rect (at 0 0) (size 1.5 10) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ac177fdd-abbb-4246-8b6e-0b427ea6b7b7))
+)
