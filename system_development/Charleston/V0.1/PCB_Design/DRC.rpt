@@ -1,92 +1,105 @@
 ** Drc report for C:\Users\parke\OneDrive\Documents\GitHub\battery-pack-and-BMS\system_development\Charleston\V0.1\PCB_Design\Femaletomaleboard.kicad_pcb **
-** Created on 2024-05-24 13:31:17 **
+** Created on 2024-05-29 15:02:47 **
 
-** Found 27 DRC violations **
-[silk_edge_clearance]: Silkscreen clipped by board edge
-    Rule: board setup constraints silk; Severity: warning
-    @(176.1000 mm, 160.7500 mm): Line on Edge.Cuts
-    @(179.5497 mm, 122.0550 mm): Line on F.Silkscreen
-[silk_edge_clearance]: Silkscreen clipped by board edge
-    Rule: board setup constraints silk; Severity: warning
-    @(176.1000 mm, 160.7500 mm): Line on Edge.Cuts
-    @(175.4497 mm, 82.8350 mm): Line on F.Silkscreen
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9442 mm, 88.0000 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9442 mm, 63.1080 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9442 mm, 80.8880 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9442 mm, 91.5320 mm): Footprint <no reference designator>
-[lib_footprint_mismatch]: Footprint 'Gold Finger single' does not match copy in library 'infnoise_goldfingers'.
-    Local override; Severity: warning
-    @(112.3562 mm, 39.9940 mm): Footprint SW2
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9442 mm, 70.2200 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9442 mm, 84.4440 mm): Footprint <no reference designator>
-[lib_footprint_mismatch]: Footprint 'Gold Finger single' does not match copy in library 'infnoise_goldfingers'.
-    Local override; Severity: warning
-    @(112.3950 mm, 79.1210 mm): Footprint SW2
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9442 mm, 95.1120 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9442 mm, 77.3320 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9442 mm, 66.6640 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9442 mm, 73.7760 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 125.8180 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 129.3740 mm): Footprint <no reference designator>
-[lib_footprint_mismatch]: Footprint 'Gold Finger single' does not match copy in library 'infnoise_goldfingers'.
-    Local override; Severity: warning
-    @(112.3937 mm, 124.0400 mm): Footprint SW2
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 111.5940 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 132.9300 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 115.1500 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 140.0420 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 143.5980 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 108.0380 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 118.7060 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 122.2620 mm): Footprint <no reference designator>
-[lib_footprint_issues]: The current configuration does not include the library ''.
-    Local override; Severity: warning
-    @(117.9817 mm, 136.4860 mm): Footprint <no reference designator>
-[lib_footprint_mismatch]: Footprint 'Gold Finger PCB bottom' does not match copy in library 'infnoise_goldfingers'.
-    Local override; Severity: warning
-    @(112.3562 mm, 77.0540 mm): Footprint SW2
+** Found 0 DRC violations **
 
-** Found 0 unconnected pads **
+** Found 24 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 98.4250 mm): Pad 12 [Net-(J2-Pin_1)] of U2 on B.Cu
+    @(117.6692 mm, 98.4250 mm): Track [Net-(J2-Pin_1)] on F.Cu, length 26.6700 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 91.3130 mm): Pad 10 [Net-(J2-Pin_3)] of U2 on B.Cu
+    @(117.6692 mm, 91.3130 mm): Track [Net-(J2-Pin_3)] on F.Cu, length 25.4000 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 87.7570 mm): Pad 9 [Net-(J2-Pin_4)] of U2 on B.Cu
+    @(117.6692 mm, 87.7570 mm): Track [Net-(J2-Pin_4)] on F.Cu, length 24.5110 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 84.2010 mm): Pad 8 [Net-(J2-Pin_5)] of U2 on B.Cu
+    @(117.6692 mm, 84.2010 mm): Track [Net-(J2-Pin_5)] on F.Cu, length 23.7490 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 80.6450 mm): Pad 7 [Net-(J2-Pin_6)] of U2 on B.Cu
+    @(117.6692 mm, 80.6450 mm): Track [Net-(J2-Pin_6)] on F.Cu, length 22.6060 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 77.0890 mm): Pad 6 [Net-(J2-Pin_7)] of U2 on F.Cu
+    @(131.0640 mm, 77.0890 mm): Track [Net-(J2-Pin_7)] on B.Cu, length 13.3948 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 73.5330 mm): Pad 5 [Net-(J2-Pin_8)] of U2 on B.Cu
+    @(117.6692 mm, 73.5330 mm): Track [Net-(J2-Pin_8)] on F.Cu, length 21.3360 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 69.9770 mm): Pad 4 [Net-(J2-Pin_9)] of U2 on B.Cu
+    @(117.6692 mm, 69.9770 mm): Track [Net-(J2-Pin_9)] on F.Cu, length 20.3200 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 66.4210 mm): Pad 3 [Net-(J2-Pin_10)] of U2 on B.Cu
+    @(117.6692 mm, 66.4210 mm): Track [Net-(J2-Pin_10)] on F.Cu, length 19.8120 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 59.3090 mm): Pad 1 [Net-(J2-Pin_12)] of U2 on F.Cu
+    @(117.6692 mm, 59.3090 mm): Pad 1 [Net-(J2-Pin_12)] of U2 on B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 62.8650 mm): Pad 2 [Net-(J2-Pin_11)] of U2 on B.Cu
+    @(117.6692 mm, 62.8650 mm): Track [Net-(J2-Pin_11)] on F.Cu, length 20.1930 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 115.0620 mm): Pad 4 [Net-(J2-Pin_2)] of U3 on B.Cu
+    @(123.8250 mm, 115.0620 mm): Track [Net-(J2-Pin_2)] on F.Cu, length 6.1558 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 94.8690 mm): Pad 11 [Net-(J2-Pin_2)] of U2 on B.Cu
+    @(117.6692 mm, 94.8690 mm): Track [Net-(J2-Pin_2)] on F.Cu, length 25.6540 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(143.3232 mm, 94.8690 mm): Track [Net-(J2-Pin_2)] on F.Cu, length 19.6717 mm
+    @(130.4290 mm, 115.0620 mm): Track [Net-(J2-Pin_2)] on B.Cu, length 38.2658 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 104.3940 mm): Pad 1 [Net-(J4-Pin_12)] of U3 on F.Cu
+    @(117.6692 mm, 104.3940 mm): Pad 1 [Net-(J4-Pin_12)] of U3 on B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 107.9500 mm): Pad 2 [Net-(J3-P14)] of U3 on F.Cu
+    @(117.6692 mm, 107.9500 mm): Track [Net-(J3-P14)] on B.Cu, length 15.6808 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 111.5060 mm): Pad 3 [Net-(J3-P15)] of U3 on B.Cu
+    @(117.6692 mm, 111.5060 mm): Track [Net-(J3-P15)] on F.Cu, length 10.6008 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 118.6180 mm): Pad 5 [Net-(J3-P17)] of U3 on B.Cu
+    @(123.0630 mm, 118.6180 mm): Track [Net-(J3-P17)] on F.Cu, length 5.3938 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 122.1740 mm): Pad 6 [Net-(J3-P18)] of U3 on B.Cu
+    @(117.6692 mm, 122.1740 mm): Track [Net-(J3-P18)] on F.Cu, length 3.9968 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 125.7300 mm): Pad 7 [Net-(J3-P19)] of U3 on B.Cu
+    @(117.6692 mm, 125.7300 mm): Track [Net-(J3-P19)] on F.Cu, length 4.6318 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 129.2860 mm): Pad 8 [Net-(J3-P20)] of U3 on B.Cu
+    @(123.3170 mm, 129.2860 mm): Track [Net-(J3-P20)] on F.Cu, length 5.6478 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 132.8420 mm): Pad 9 [Net-(J3-P21)] of U3 on B.Cu
+    @(123.5710 mm, 132.8420 mm): Track [Net-(J3-P21)] on F.Cu, length 5.9018 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 143.5100 mm): Pad 12 [Net-(J3-P24)] of U3 on B.Cu
+    @(116.9580 mm, 144.2212 mm): Track [Net-(J3-P24)] on F.Cu, length 1.0058 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: warning
+    @(117.6692 mm, 139.9540 mm): Pad 11 [Net-(J3-P23)] of U3 on B.Cu
+    @(123.3170 mm, 139.9540 mm): Track [Net-(J3-P23)] on F.Cu, length 5.6478 mm
 
 ** Found 0 Footprint errors **
 

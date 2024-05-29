@@ -1,0 +1,1 @@
+Changed footprint J3 from 'Connector_Dsub:DSUB-25_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm' to 'Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm': : OK

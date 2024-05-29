@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "screw_terminal_01x12")(type "KiCad")(uri "${KIPRJMOD}/Library_bms_Schematic/screw_terminal_01x12.kicad_sym")(options "")(descr ""))
+)
