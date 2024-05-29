@@ -936,13 +936,13 @@
   (symbol (lib_id "libary_bms:Goldfingersingle") (at 16.383 53.721 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 506b50d6-4f50-4783-bc98-2653c9bcd0af)
-    (property "Reference" "U?" (at 20.193 54.356 0)
+    (property "Reference" "U1" (at 20.193 54.356 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "~" (at 16.383 53.721 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 16.383 53.721 0)
+    (property "Footprint" "infnoise_goldfingers:Gold Finger single" (at 16.383 53.721 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 16.383 53.721 0)
@@ -951,7 +951,7 @@
     (instances
       (project "Femaletomaleboard"
         (path "/8dcdbe00-6c4e-43b9-b640-476052a1e30f"
-          (reference "U?") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
