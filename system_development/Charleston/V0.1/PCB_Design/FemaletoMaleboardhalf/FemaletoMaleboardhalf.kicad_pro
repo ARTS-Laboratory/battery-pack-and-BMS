@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.5,
-          "height": 0.5,
-          "width": 0.5
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -49,9 +49,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "unconnected_items|117669196|136398000|e4dfb53d-dfdd-4a23-a8e0-b4373cffc73e|1cfbe1df-ef1e-4d8c-9a65-a2fd33e5d1c7"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -91,7 +89,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "ignore",
+        "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_thickness": "warning",
@@ -100,7 +98,7 @@
         "track_dangling": "warning",
         "track_width": "error",
         "tracks_crossing": "error",
-        "unconnected_items": "warning",
+        "unconnected_items": "error",
         "unresolved_variable": "error",
         "via_dangling": "warning",
         "zones_intersect": "error"
@@ -394,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Femaletomaleboard.kicad_pro",
+    "filename": "FemaletoMaleboardhalf.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -427,9 +425,9 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "Femaletomaleboard.emn",
+      "idf": "",
       "netlist": "",
-      "specctra_dsn": "Femaletomaleboard.dsn",
+      "specctra_dsn": "",
       "step": "",
       "vrml": ""
     },
@@ -471,7 +469,7 @@
   },
   "sheets": [
     [
-      "8dcdbe00-6c4e-43b9-b640-476052a1e30f",
+      "5c5d619a-c877-48e9-9133-a6ef15e3fb1d",
       ""
     ]
   ],
