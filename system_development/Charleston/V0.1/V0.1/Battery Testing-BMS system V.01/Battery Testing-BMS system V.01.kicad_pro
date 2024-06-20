@@ -177,7 +177,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "power_pin_not_driven|938530|606610|53eef8ca-fefc-4362-89fe-afb9d057870e|00000000-0000-0000-0000-000000000000|||"
+    ],
     "meta": {
       "version": 0
     },
@@ -392,7 +394,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "FemaletoMaleboardhalf.kicad_pro",
+    "filename": "Battery Testing-BMS system V.01.kicad_pro",
     "version": 1
   },
   "net_settings": {
