@@ -389,7 +389,11 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
+<<<<<<< HEAD
       "BMS_PCB_LIB"
+=======
+      "BMS_PCB_Library"
+>>>>>>> parent of a20e33a (Fixed)
     ],
     "pinned_symbol_libs": []
   },
