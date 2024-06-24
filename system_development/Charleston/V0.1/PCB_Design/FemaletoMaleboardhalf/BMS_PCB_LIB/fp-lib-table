@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "PCB-BMS")(type "KiCad")(uri "C:/Users/parke/OneDrive/Documents/GitHub/battery-pack-and-BMS/system_development/Charleston/V0.1/PCB_Design")(options "")(descr "Footprints for PCB BMS"))
-)
