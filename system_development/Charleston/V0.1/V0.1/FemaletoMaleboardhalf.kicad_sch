@@ -615,7 +615,7 @@
     (pin "8" (uuid 9eb1d91b-8c7b-4bc3-a7a9-a294e9dae07e))
     (pin "9" (uuid f3fafbfe-9e94-4441-85b0-54cbc0d5374f))
     (instances
-      (project "Battery Testing-BMS system V.01"
+      (project "FemaletoMaleboardhalf"
         (path "/5c5d619a-c877-48e9-9133-a6ef15e3fb1d"
           (reference "J1") (unit 1)
         )
@@ -640,7 +640,7 @@
     )
     (pin "1" (uuid b6396cd1-888a-4318-854c-83485bafe64c))
     (instances
-      (project "Battery Testing-BMS system V.01"
+      (project "FemaletoMaleboardhalf"
         (path "/5c5d619a-c877-48e9-9133-a6ef15e3fb1d"
           (reference "#PWR01") (unit 1)
         )
@@ -676,7 +676,7 @@
     (pin "8" (uuid f6c5e9b6-3220-4faa-821c-702480f9905f))
     (pin "9" (uuid 4037c15b-8fad-486f-87da-f74fdf192359))
     (instances
-      (project "Battery Testing-BMS system V.01"
+      (project "FemaletoMaleboardhalf"
         (path "/5c5d619a-c877-48e9-9133-a6ef15e3fb1d"
           (reference "U1") (unit 1)
         )

@@ -390,11 +390,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "BMS_PCB_Library"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Battery Testing-BMS system V.01.kicad_pro",
+    "filename": "FemaletoMaleboardhalf.kicad_pro",
     "version": 1
   },
   "net_settings": {
