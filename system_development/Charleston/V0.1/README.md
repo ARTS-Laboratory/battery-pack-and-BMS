@@ -1,10 +1,7 @@
-# V0.1
 
-## Design Considerations
-1. ...
-1. ...
-1. ...
-1. ...
+# V0.1
+  Goes straight to screw terminal.
+
 
 
 
