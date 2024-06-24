@@ -82,8 +82,13 @@
 
   (net 0 "")
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:system_development/Charleston/V0.1/V0.1/Battery Testing-BMS system V.01/Battery Testing-BMS system V.01.kicad_pcb
 =======
+<<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
+>>>>>>> parent of a20e33a (Fixed)
+=======
+<<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
 <<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
 >>>>>>> parent of a20e33a (Fixed)
   (net 1 "Net-(J1-Pin_9)")
@@ -99,9 +104,15 @@
   (net 11 "Net-(J1-Pin_5)")
   (net 12 "Net-(J1-Pin_10)")
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 ========
+>>>>>>> parent of a20e33a (Fixed)
+=======
+========
+========
+>>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
 >>>>>>> parent of a20e33a (Fixed)
   (net 1 "Net-(J1-Pin_1)")
   (net 2 "Net-(J1-Pin_2)")
@@ -141,8 +152,15 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp 1438fd94-f934-4849-83a1-fc1a3e0e6fd6))
   )
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
 =======
+>>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
+>>>>>>> parent of a20e33a (Fixed)
+=======
+<<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
+>>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
+========
 >>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
 >>>>>>> parent of a20e33a (Fixed)
 
@@ -217,14 +235,24 @@
       (net 4 "Net-(J1-Pin_4)") (pinfunction "Pin_4") (pintype "passive") (tstamp a5b59e76-bf5b-437d-8c9f-cf7dc71ec30b))
     (pad "5" thru_hole circle (at 20 0 270) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask")
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:system_development/Charleston/V0.1/V0.1/Battery Testing-BMS system V.01/Battery Testing-BMS system V.01.kicad_pcb
       (net 11 "Net-(J1-Pin_5)") (pinfunction "Pin_5") (pintype "passive") (tstamp 9d4b923f-5d8c-4933-8970-e3015233acb5))
 =======
       (net 5 "Net-(J1-Pin_5)") (pinfunction "Pin_5") (pintype "passive") (tstamp 9d4b923f-5d8c-4933-8970-e3015233acb5))
 >>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
 =======
+=======
+<<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
+>>>>>>> parent of a20e33a (Fixed)
 <<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
       (net 11 "Net-(J1-Pin_5)") (pinfunction "Pin_5") (pintype "passive") (tstamp 9d4b923f-5d8c-4933-8970-e3015233acb5))
+========
+      (net 5 "Net-(J1-Pin_5)") (pinfunction "Pin_5") (pintype "passive") (tstamp 9d4b923f-5d8c-4933-8970-e3015233acb5))
+>>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
+<<<<<<< HEAD
+>>>>>>> parent of a20e33a (Fixed)
+=======
 ========
       (net 5 "Net-(J1-Pin_5)") (pinfunction "Pin_5") (pintype "passive") (tstamp 9d4b923f-5d8c-4933-8970-e3015233acb5))
 >>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
@@ -239,14 +267,24 @@
       (net 9 "Net-(J1-Pin_9)") (pinfunction "Pin_9") (pintype "passive") (tstamp 8b1ac8f9-8384-412d-85cf-c34fd212d751))
     (pad "10" thru_hole circle (at 45 0 270) (size 3 3) (drill 1.5) (layers "*.Cu" "*.Mask")
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:system_development/Charleston/V0.1/V0.1/Battery Testing-BMS system V.01/Battery Testing-BMS system V.01.kicad_pcb
       (net 12 "Net-(J1-Pin_10)") (pinfunction "Pin_10") (pintype "passive") (tstamp 0f61b4ef-14a5-4e8d-a762-d5658f1c99f5))
 =======
       (net 10 "Net-(J1-Pin_10)") (pinfunction "Pin_10") (pintype "passive") (tstamp 0f61b4ef-14a5-4e8d-a762-d5658f1c99f5))
 >>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
 =======
+=======
+<<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
+>>>>>>> parent of a20e33a (Fixed)
 <<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
       (net 12 "Net-(J1-Pin_10)") (pinfunction "Pin_10") (pintype "passive") (tstamp 0f61b4ef-14a5-4e8d-a762-d5658f1c99f5))
+========
+      (net 10 "Net-(J1-Pin_10)") (pinfunction "Pin_10") (pintype "passive") (tstamp 0f61b4ef-14a5-4e8d-a762-d5658f1c99f5))
+>>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
+<<<<<<< HEAD
+>>>>>>> parent of a20e33a (Fixed)
+=======
 ========
       (net 10 "Net-(J1-Pin_10)") (pinfunction "Pin_10") (pintype "passive") (tstamp 0f61b4ef-14a5-4e8d-a762-d5658f1c99f5))
 >>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
@@ -288,14 +326,24 @@
       (net 4 "Net-(J1-Pin_4)") (pintype "input") (tstamp 0a2fd3c8-699a-4305-9d57-bff1c47247f4))
     (pad "5" smd rect (at -5.334 5.588 270) (size 1.5 10) (layers "F.Cu" "F.Paste" "F.Mask")
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:system_development/Charleston/V0.1/V0.1/Battery Testing-BMS system V.01/Battery Testing-BMS system V.01.kicad_pcb
       (net 11 "Net-(J1-Pin_5)") (pintype "input") (tstamp 7623d300-e6a2-4c92-8e52-8e73da54dd64))
 =======
       (net 5 "Net-(J1-Pin_5)") (pintype "input") (tstamp 7623d300-e6a2-4c92-8e52-8e73da54dd64))
 >>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
 =======
+=======
+<<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
+>>>>>>> parent of a20e33a (Fixed)
 <<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
       (net 11 "Net-(J1-Pin_5)") (pintype "input") (tstamp 7623d300-e6a2-4c92-8e52-8e73da54dd64))
+========
+      (net 5 "Net-(J1-Pin_5)") (pintype "input") (tstamp 7623d300-e6a2-4c92-8e52-8e73da54dd64))
+>>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
+<<<<<<< HEAD
+>>>>>>> parent of a20e33a (Fixed)
+=======
 ========
       (net 5 "Net-(J1-Pin_5)") (pintype "input") (tstamp 7623d300-e6a2-4c92-8e52-8e73da54dd64))
 >>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
@@ -310,14 +358,24 @@
       (net 9 "Net-(J1-Pin_9)") (pintype "input") (tstamp a05381bf-6f79-4696-93dc-8ff9eb8ffc47))
     (pad "10" smd rect (at 12.446 5.588 270) (size 1.5 10) (layers "F.Cu" "F.Paste" "F.Mask")
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:system_development/Charleston/V0.1/V0.1/Battery Testing-BMS system V.01/Battery Testing-BMS system V.01.kicad_pcb
       (net 12 "Net-(J1-Pin_10)") (pintype "input") (tstamp 99d2a701-a6f4-40e3-95f9-a0f197b59f0f))
 =======
       (net 10 "Net-(J1-Pin_10)") (pintype "input") (tstamp 99d2a701-a6f4-40e3-95f9-a0f197b59f0f))
 >>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
 =======
+=======
+<<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
+>>>>>>> parent of a20e33a (Fixed)
 <<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
       (net 12 "Net-(J1-Pin_10)") (pintype "input") (tstamp 99d2a701-a6f4-40e3-95f9-a0f197b59f0f))
+========
+      (net 10 "Net-(J1-Pin_10)") (pintype "input") (tstamp 99d2a701-a6f4-40e3-95f9-a0f197b59f0f))
+>>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
+<<<<<<< HEAD
+>>>>>>> parent of a20e33a (Fixed)
+=======
 ========
       (net 10 "Net-(J1-Pin_10)") (pintype "input") (tstamp 99d2a701-a6f4-40e3-95f9-a0f197b59f0f))
 >>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
@@ -8145,8 +8203,13 @@
   )
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:system_development/Charleston/V0.1/V0.1/Battery Testing-BMS system V.01/Battery Testing-BMS system V.01.kicad_pcb
 =======
+<<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
+>>>>>>> parent of a20e33a (Fixed)
+=======
+<<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
 <<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
 >>>>>>> parent of a20e33a (Fixed)
   (segment (start 116.078 101.6) (end 132.01 101.6) (width 0.25) (layer "F.Cu") (net 1) (tstamp 141192cc-c0b9-4b7c-923e-ee3f3923efeb))
@@ -8168,17 +8231,25 @@
   (segment (start 116.078 108.712) (end 129.122 108.712) (width 0.25) (layer "F.Cu") (net 9) (tstamp 7a42721b-e86b-4f39-a1ce-1581820434db))
   (segment (start 129.122 108.712) (end 136.767 116.357) (width 0.25) (layer "F.Cu") (net 9) (tstamp 7d355fb8-3d33-41e0-a0c5-7d907b8975db))
 <<<<<<< HEAD
+<<<<<<< HEAD
   (segment (start 116.078 87.376) (end 135.748 87.376) (width 0.25) (layer "F.Cu") (net 11) (tstamp 0d174ec1-6108-4e68-b412-4883338b8f95))
   (segment (start 135.748 87.376) (end 136.767 86.357) (width 0.25) (layer "F.Cu") (net 11) (tstamp e356c0ae-448e-42d4-bcfe-620ff8bcbc29))
   (segment (start 116.078 105.156) (end 130.566 105.156) (width 0.25) (layer "F.Cu") (net 12) (tstamp 9d954fcf-08be-4d45-adc8-f3bc938582c6))
   (segment (start 130.566 105.156) (end 136.767 111.357) (width 0.25) (layer "F.Cu") (net 12) (tstamp d7944782-6ead-4d70-977d-babff2f83def))
 =======
 =======
+=======
+>>>>>>> parent of a20e33a (Fixed)
   (segment (start 116.078 87.376) (end 135.748 87.376) (width 0.25) (layer "F.Cu") (net 11) (tstamp 9529f6bb-a4b8-4138-b0d0-d61770eb4c40))
   (segment (start 135.748 87.376) (end 136.767 86.357) (width 0.25) (layer "F.Cu") (net 11) (tstamp f813873f-5314-4fc9-8fe5-65b3f7d96dbc))
   (segment (start 116.078 105.156) (end 130.566 105.156) (width 0.25) (layer "F.Cu") (net 12) (tstamp 9d954fcf-08be-4d45-adc8-f3bc938582c6))
   (segment (start 130.566 105.156) (end 136.767 111.357) (width 0.25) (layer "F.Cu") (net 12) (tstamp d7944782-6ead-4d70-977d-babff2f83def))
 ========
+<<<<<<< HEAD
+>>>>>>> parent of a20e33a (Fixed)
+=======
+========
+>>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
 >>>>>>> parent of a20e33a (Fixed)
   (segment (start 116.078 73.152) (end 129.972 73.152) (width 0.25) (layer "F.Cu") (net 1) (tstamp 2110e046-d7d8-4876-8a89-1d426c71f666))
   (segment (start 129.972 73.152) (end 136.767 66.357) (width 0.25) (layer "F.Cu") (net 1) (tstamp 81e8cb26-a959-4658-86bc-88ed759ccd00))
@@ -8203,8 +8274,15 @@
   (segment (start 116.078 112.268) (end 127.678 112.268) (width 0.25) (layer "F.Cu") (net 12) (tstamp 3c308b35-f4e9-4ba9-9ab0-87883af6917a))
   (segment (start 127.678 112.268) (end 136.767 121.357) (width 0.25) (layer "F.Cu") (net 12) (tstamp d1ea73ab-8903-40fa-811b-72be12ff51cd))
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
 =======
+>>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
+>>>>>>> parent of a20e33a (Fixed)
+=======
+<<<<<<<< HEAD:system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf.kicad_pcb
+>>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
+========
 >>>>>>>> parent of a20e33a (Fixed):system_development/Charleston/V0.1/PCB_Design/FemaletoMaleboardhalf/FemaletoMaleboardhalf.kicad_pcb
 >>>>>>> parent of a20e33a (Fixed)
 
